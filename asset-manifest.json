@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SAFEBOX/static/css/main.b3ff5d78.css",
-    "main.js": "/SAFEBOX/static/js/main.d709b874.js",
+    "main.js": "/SAFEBOX/static/js/main.1c2ad0cc.js",
     "reactPlayerYouTube.js": "/SAFEBOX/static/js/reactPlayerYouTube.8c342e47.chunk.js",
     "reactPlayerSoundCloud.js": "/SAFEBOX/static/js/reactPlayerSoundCloud.200ffeaa.chunk.js",
     "reactPlayerVimeo.js": "/SAFEBOX/static/js/reactPlayerVimeo.06e590e0.chunk.js",
@@ -28,9 +28,10 @@
     "static/media/meta.png": "/SAFEBOX/static/media/meta.351c3ee8675fbf0fd2ab.png",
     "static/media/FOREXBROKER.jpg": "/SAFEBOX/static/media/FOREXBROKER.260d27f0e8c5bf144732.jpg",
     "static/media/trust.png": "/SAFEBOX/static/media/trust.a030ca3d5a40546fdc36.png",
+    "static/media/connect.svg": "/SAFEBOX/static/media/connect.a4166a89e44f223aee034139e12106c8.svg",
     "index.html": "/SAFEBOX/index.html",
     "main.b3ff5d78.css.map": "/SAFEBOX/static/css/main.b3ff5d78.css.map",
-    "main.d709b874.js.map": "/SAFEBOX/static/js/main.d709b874.js.map",
+    "main.1c2ad0cc.js.map": "/SAFEBOX/static/js/main.1c2ad0cc.js.map",
     "reactPlayerYouTube.8c342e47.chunk.js.map": "/SAFEBOX/static/js/reactPlayerYouTube.8c342e47.chunk.js.map",
     "reactPlayerSoundCloud.200ffeaa.chunk.js.map": "/SAFEBOX/static/js/reactPlayerSoundCloud.200ffeaa.chunk.js.map",
     "reactPlayerVimeo.06e590e0.chunk.js.map": "/SAFEBOX/static/js/reactPlayerVimeo.06e590e0.chunk.js.map",
@@ -47,6 +48,6 @@
   },
   "entrypoints": [
     "static/css/main.b3ff5d78.css",
-    "static/js/main.d709b874.js"
+    "static/js/main.1c2ad0cc.js"
   ]
 }
