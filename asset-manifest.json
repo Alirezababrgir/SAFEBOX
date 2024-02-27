@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SAFEBOX/static/css/main.83dd0cd5.css",
-    "main.js": "/SAFEBOX/static/js/main.e2e2b1a7.js",
+    "main.css": "/SAFEBOX/static/css/main.fdf45bb6.css",
+    "main.js": "/SAFEBOX/static/js/main.ba50089e.js",
     "static/css/278.9aba6e56.chunk.css": "/SAFEBOX/static/css/278.9aba6e56.chunk.css",
     "static/js/278.3d04e445.chunk.js": "/SAFEBOX/static/js/278.3d04e445.chunk.js",
     "static/js/997.2edc8170.chunk.js": "/SAFEBOX/static/js/997.2edc8170.chunk.js",
@@ -36,8 +36,8 @@
     "static/media/FOREXBROKER.jpg": "/SAFEBOX/static/media/FOREXBROKER.260d27f0e8c5bf144732.jpg",
     "static/media/trust.png": "/SAFEBOX/static/media/trust.a030ca3d5a40546fdc36.png",
     "index.html": "/SAFEBOX/index.html",
-    "main.83dd0cd5.css.map": "/SAFEBOX/static/css/main.83dd0cd5.css.map",
-    "main.e2e2b1a7.js.map": "/SAFEBOX/static/js/main.e2e2b1a7.js.map",
+    "main.fdf45bb6.css.map": "/SAFEBOX/static/css/main.fdf45bb6.css.map",
+    "main.ba50089e.js.map": "/SAFEBOX/static/js/main.ba50089e.js.map",
     "278.9aba6e56.chunk.css.map": "/SAFEBOX/static/css/278.9aba6e56.chunk.css.map",
     "278.3d04e445.chunk.js.map": "/SAFEBOX/static/js/278.3d04e445.chunk.js.map",
     "997.2edc8170.chunk.js.map": "/SAFEBOX/static/js/997.2edc8170.chunk.js.map",
@@ -60,7 +60,7 @@
     "53.09936be5.chunk.js.map": "/SAFEBOX/static/js/53.09936be5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.83dd0cd5.css",
-    "static/js/main.e2e2b1a7.js"
+    "static/css/main.fdf45bb6.css",
+    "static/js/main.ba50089e.js"
   ]
 }
