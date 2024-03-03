@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 
 const Notfound = () => {
     return (
-        <div className="notfound">
+        <div className="notfound" >
             <div class="noise"></div>
             <div class="nooverlay"></div>
             <div class="terminal">
