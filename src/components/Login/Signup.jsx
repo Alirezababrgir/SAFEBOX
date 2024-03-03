@@ -14,6 +14,7 @@ import { Circles } from 'react-loading-icons'
 import Footer from '../HomePage/Footer/Footer';
 import { useNavigate } from 'react-router-dom';
 import Web3 from 'web3';
+
 const Signup = () => {
     const [icon, seticon] = useState(<GrSend className='fs-2 mr-2' />);
     const [buttonColor, setButtonColor] = useState('primary');
